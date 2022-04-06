@@ -1,9 +1,15 @@
 const packages = [
   {
+    id: 'smaller',
+    title: '3 Credits',
+    credit: 3,
+    price: 3,
+  },
+  {
     id: 'extra-small',
-    title: '20 Credits',
-    credit: 20,
-    price: 30,
+    title: '10 Credits',
+    credit: 10,
+    price: 10,
   },
   {
     id: 'small',
@@ -16,12 +22,6 @@ const packages = [
     title: '100 Credits',
     credit: 100,
     price: 80,
-  },
-  {
-    id: 'large',
-    title: '200 Credits',
-    credit: 200,
-    price: 120,
   },
 ];
 
