@@ -15,7 +15,7 @@ const packages = [
     id: 'medium',
     title: '100 Credits',
     credit: 100,
-    price: 70,
+    price: 80,
   },
   {
     id: 'large',

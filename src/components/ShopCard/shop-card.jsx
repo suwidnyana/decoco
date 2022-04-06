@@ -23,7 +23,7 @@ const ShopCard = () => {
   }, [activePackage]);
 
   const discount = useMemo(() => {
-    return Math.ceil(((price - activePackage.price) / price) * 100);
+    return Math.floor(((price - activePackage.price) / price) * 100);
   }, [price, activePackage]);
 
   return (
