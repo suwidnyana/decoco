@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <g data-name="claw machine" style="" transform="matrix(1, 0, 0, 0.887251, 0, 3.438828)">
+    <path d="M 5.5 24.993 L 26.5 24.993 L 26.5 6.97 L 25.5 6.97 L 5.5 6.97 Z" style=""/>
+    <path fill="#C17CEF" d="M 30 25.493 L 2 25.493 C 1.724 25.493 1.5 25.718 1.5 25.994 L 1.5 29.999 C 1.5 30.276 1.724 30.5 2 30.5 L 30 30.5 C 30.276 30.5 30.5 30.276 30.5 29.999 L 30.5 25.994 C 30.5 25.718 30.276 25.493 30 25.493 Z M 22.5 29.498 L 9.5 29.498 L 9.5 26.495 L 22.5 26.495 L 22.5 29.498 Z M 5.5 6.97" style=""/>
+    <circle fill="#F74C77" cx="28.29" cy="15.19" r="1.5"/>
+    <path fill="#921893" d="M27.79,17.11V25h1V17.12a2.08,2.08,0,0,1-.5.07A1.69,1.69,0,0,1,27.79,17.11Z"/>
+    <path fill="#FB7085" d="M 30.082 0.733 L 2.082 0.733 C 1.806 0.733 1.582 0.958 1.582 1.234 L 1.582 5.239 C 1.582 5.516 1.806 5.74 2.082 5.74 L 30.082 5.74 C 30.358 5.74 30.582 5.516 30.582 5.239 L 30.582 1.234 C 30.582 0.958 30.358 0.733 30.082 0.733 Z M 28.487 4.75 L 3.514 4.734 L 3.527 1.595 L 28.489 1.628 L 28.487 4.75 Z" style=""/>
+  </g>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 1px;" x="21.492" y="9.991"> </text>
+  <text style="white-space: pre; fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); font-size: 0.5px;" x="4.616" y="6.368"><tspan x="4.616000175476074" dy="1em">​</tspan></text>
+  <text style="white-space: pre; fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); font-size: 0.5px;" x="9.47" y="2.451"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 1px;" x="11.02" y="3.104">
+</text>
+  <text style="white-space: pre;  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue' sans-serif; font-size: 1px;" x="3.774" y="5.824" transform="matrix(2.274101, 0, 0, 2.430065, -4.786291, -7.044692)"> Dedoclaw Machine</text>
+  <text style="white-space: pre;  font-family: Arial, sans-serif; font-size: 1px;" x="21.204" y="4.286">
+</text>
+  <text style="white-space: pre;  font-family: Arial, sans-serif; font-size: 1px;" x="29.802" y="4.795">
+</text>
+  <text style="white-space: pre;  font-family: Arial, sans-serif; font-size: 1px;" x="29.378" y="8.182">
+</text>
+  <text style="white-space: pre;  font-family: Arial, sans-serif; font-size: 1px;" x="21.006" y="4.772">
+</text>
+</svg>
