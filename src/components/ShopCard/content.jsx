@@ -1,10 +1,9 @@
 const packages = [
-  
   {
     id: 'extra-small',
     title: '20 Credits',
     credit: 20,
-    price: 20,
+    price: 30,
   },
   {
     id: 'small',

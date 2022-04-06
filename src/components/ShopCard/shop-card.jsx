@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState, useCallback } from 'react';
 import { Card, Col, Grid, Row, Text } from '@nextui-org/react';
 import {
   ProductSize,
@@ -57,9 +57,11 @@ const ShopCard = () => {
               {/* TODO: Render prices and discount appropriately */}
               <Row css={{ py: '$4' }}>
                 <StyledPrice>${activePackage.price}</StyledPrice>
+
                 {price > activePackage.price && (
                   <StyledOldPrice>${price}</StyledOldPrice>
                 )}
+
                 {discount > 0 && (
                   <StyledDiscount>{discount}% off</StyledDiscount>
                 )}
